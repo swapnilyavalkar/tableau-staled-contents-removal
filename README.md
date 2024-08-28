@@ -1,8 +1,6 @@
-Here’s a professional and visually appealing README file with icons for your script:
-
 ---
 
-# 🧹 Tableau Server Dashboard Cleanup Script
+# 🧹 Tableau Server Staled Dashboard Cleanup Script
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![Pandas](https://img.shields.io/badge/Pandas-1.3%2B-green.svg)
